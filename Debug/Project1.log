@@ -1,0 +1,11 @@
+﻿  Assem.cpp
+  Assembler.cpp
+  Emulator.cpp
+  Errors.cpp
+  FileAccess.cpp
+  Instruction.cpp
+d:\assembler\project1\instruction.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  stdafx.cpp
+  SymTab.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\assembler\Project1\Debug\Project1.exe
